@@ -1,4 +1,4 @@
-# Emotion-Recognition-using-Facial-Expressions
+# FeelSense
 ### _Emotions classification from the facial expressions of people. Analyzing various emotions from dataset of faces with different emotions._
 <br>
 
